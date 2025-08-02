@@ -1,2 +1,1 @@
-# UnstoppableDomains
-Decentralized Identity-Authenticating Domain Registry Architecture providing enterprise-grade UnstoppableDomains solutions implementing modern Censorship-Resistant Domain Resolution patterns with Immutable architecture
+.
